@@ -4,7 +4,7 @@ src="https://github.com/user-attachments/assets/14806b36-bc52-44a8-a825-615241d8
 </p>
 <h1>Sign-In Logs for Users (Azure)</h1>
 This tutorial outlines the process of viewing and interpreting Sign-In Logs of user accounts in
-Entra ID.
+Entra ID. Sign in logs shows authentication activity; can be used for troubleshooting and see any suspicious attempt to login.  
 <br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
