@@ -8,8 +8,6 @@ Entra ID.
 <br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
-<h2>Operating Systems Used </h2>
-- Windows 11
 <h2>Sign-In Logs </h2>
 <p>
 <img width="3432" height="1303" alt="Screenshot 2026-10-26 at 3 00 40 PM" src="https://github.com/user-attachments/assets/914c9f64-b230-4e35-a3b2-0562101c38f8" />
